@@ -1,7 +1,7 @@
 ---
 title: 'This was CSS Day 2024 - the 10th edition'
-date: '2024-06-26'
-tags: ['frontend', 'css', 'events']
+date: '2024-06-27'
+tags: ['frontend', 'css', 'events', 'conference']
 images: ['/articles/this-was-css-day-2024-the-10th-edition/css-day.jpg']
 summary: 'Another year, another CSS Day. I’m always happy to return to Amsterdam for this occasion, It’s one of the things I look forward to every year. So naturally, I’m happy that iO still allowed me to go there with my training budget, and the least I could do, is write a summary of this event on the tech_hub.'
 authors: ['brecht-de-ruyte']
@@ -125,6 +125,8 @@ I took a bunch of notes from this talk which I will share with colleagues and us
   </div>
 </div>
 ```
+
+Also, check out her [Julia's awesome CodePen](https://codepen.io/miocene)
 
 ## Beyond Google Fonts
 
@@ -347,6 +349,6 @@ We were asked to give a short introduction to this community group and do a requ
 
 ![Me giving the intro on CSS Next at CSS cafe](/articles/this-was-css-day-2024-the-10th-edition/css-cafe.jpg)
 
-I will do a full write-up about this RFC later on, but you can read about [the CSS-Next RFC here](https://github.com/CSS-Next/css-next/discussions/92).
+I will do a full write-up about this RFC later on, but you can read [the CSS-Next RFC here](https://github.com/CSS-Next/css-next/discussions/92).
 
-One again, a fantastic CSS Day, action packed and a head full of inspiration for the upcoming year!
+One again, a fantastic CSS Day, action packed and a head chockful of inspiration to build on to in the upcoming year! See you next year?
